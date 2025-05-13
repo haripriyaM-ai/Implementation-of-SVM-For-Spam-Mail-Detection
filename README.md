@@ -122,7 +122,7 @@ Confusion Matrix
 
 Classification Report
 
-![Screenshot 2025-05-13 090807](https://github.com/user-attachments/assets/e97ff536-93a3-44f5-97c0-802f064778fa)
+![Screenshot 2025-05-13 092331](https://github.com/user-attachments/assets/3ad2face-77d6-4ca8-939a-e838842f8a36)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
